@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+html{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
